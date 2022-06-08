@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Megatop\Megatop\bin\Debug\Megatop.exe.config
+C:\Users\Lenovo\source\repos\Megatop\Megatop\bin\Debug\Megatop.exe
+C:\Users\Lenovo\source\repos\Megatop\Megatop\bin\Debug\Megatop.pdb
+C:\Users\Lenovo\source\repos\Megatop\Megatop\obj\Debug\Megatop.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Megatop\Megatop\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\Megatop\Megatop\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\Megatop\Megatop\obj\Debug\Megatop_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\Megatop\Megatop\obj\Debug\Megatop_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\Megatop\Megatop\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\Megatop\Megatop\obj\Debug\Megatop.g.resources
+C:\Users\Lenovo\source\repos\Megatop\Megatop\obj\Debug\Megatop.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Megatop\Megatop\obj\Debug\Megatop.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Megatop\Megatop\obj\Debug\Megatop.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Megatop\Megatop\obj\Debug\Megatop.exe
+C:\Users\Lenovo\source\repos\Megatop\Megatop\obj\Debug\Megatop.pdb
