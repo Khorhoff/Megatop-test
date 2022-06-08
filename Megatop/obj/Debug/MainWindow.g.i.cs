@@ -49,7 +49,7 @@ namespace Megatop {
         #line hidden
         
         
-        #line 23 "..\..\MainWindow.xaml"
+        #line 22 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.ListBox SearchList;
         
@@ -57,7 +57,7 @@ namespace Megatop {
         #line hidden
         
         
-        #line 53 "..\..\MainWindow.xaml"
+        #line 52 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBlock AnswerTextBlock;
         
@@ -65,7 +65,7 @@ namespace Megatop {
         #line hidden
         
         
-        #line 59 "..\..\MainWindow.xaml"
+        #line 58 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBlock MessageTextBlock;
         
@@ -107,7 +107,7 @@ namespace Megatop {
             return;
             case 2:
             
-            #line 22 "..\..\MainWindow.xaml"
+            #line 21 "..\..\MainWindow.xaml"
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.Button_Click);
             
             #line default

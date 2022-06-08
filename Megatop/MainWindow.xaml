@@ -12,10 +12,9 @@
                  Height="19" 
                  Margin="10,10,0,0" 
                  TextWrapping="Wrap" 
-                 Text="TextBox" 
                  VerticalAlignment="Top" 
                  Width="694"/>
-        <Button Content="Button" 
+        <Button Content="Найти" 
                 HorizontalAlignment="Left" 
                 Margin="709,10,0,0" 
                 VerticalAlignment="Top" 
